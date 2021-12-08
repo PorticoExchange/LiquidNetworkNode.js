@@ -1,4 +1,6 @@
 # LiquidNetwork
+
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -46,6 +48,7 @@ public class liquidrpcjava {
                 }
         }
 }
+
 # Compile and run code with command line
 javac liquidrpcjava.java
 java liquidrpcjava
